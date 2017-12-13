@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RelativeLayoutMaterial</string>
+    <string name="app_name">ConstraintLayout</string>
     <string name="btn_Reservar">reservieren</string>
     <string name="btn_Comprar">Erkaufen</string>
     <string name="txtV_FechaVisita">Besuchsdatum</string>

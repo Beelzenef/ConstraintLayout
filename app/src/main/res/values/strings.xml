@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RelativeLayoutMaterial</string>
+    <string name="app_name">ConstraintLayout</string>
     <string name="txtV_Monumento">Catedral de Málaga</string>
     <string name="txtV_TipoEntrada">Tipo de entrada</string>
     <string name="txtV_FechaVisita">Fecha de visita:</string>
